@@ -1,0 +1,13 @@
+# Vendor
+vendor/
+
+# Environment
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
